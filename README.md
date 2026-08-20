@@ -1,56 +1,37 @@
 # Nodirbek Eshnazarov
 
-Full Stack Developer  
-Uzbekistan
+**Backend & AI Automation Engineer** · Uzbekistan (GMT+5)
 
-I design and build reliable web applications with a focus on performance,
-maintainability, and real business needs.
-
----
-
-## About
-
-- Full stack developer with strong backend focus
-- Experience building production systems for education and business
-- Prefer clean architecture, predictable APIs, and simple UI solutions
-- Comfortable working independently or inside a structured team
-
-Main areas:
-- Business automation systems
-- Admin panels & dashboards
-- SEO-optimized WordPress & WooCommerce projects
-- REST APIs and backend services
+I build Python backends — and the AI automations that run on top of them.
+Most of my work is business systems: REST APIs, admin panels, CRM integrations,
+and automation pipelines that replace manual processes.
 
 ---
 
-## Tech Stack
+## What I work on
 
-**Frontend**
-- HTML, CSS, SCSS
-- JavaScript, TypeScript
-- React
+- **Backend services** — Django, FastAPI, REST API design, PostgreSQL
+- **AI integration** — OpenAI and Anthropic APIs, chatbots, document processing
+- **Automation** — n8n workflows, Telegram bots (aiogram), web scraping, Celery
+- **CRM integration** — Bitrix24, amoCRM
 
-**Backend**
-- Python
-- Django, FastAPI
-- REST API design
+BSc in Applied Mathematics. ~5 years building production systems.
 
-**CMS / E-commerce**
-- WordPress
-- WooCommerce
-- Custom themes & plugins
-- Advanced Custom Fields (ACF)
+---
 
-**Database**
-- PostgreSQL
-- MySQL
+## Stack
 
-**DevOps & Tools**
-- Docker
-- Nginx
-- Linux (Ubuntu)
-- Git
+**Core**
+`Python` `Django` `FastAPI` `REST API` `PostgreSQL` `Celery`
 
+**AI & automation**
+`OpenAI API` `Anthropic API` `n8n` `aiogram` `web scraping`
 
+**Computer vision**
+`OpenCV` `YOLO` `OCR`
 
+**Infrastructure**
+`Docker` `Nginx` `Linux (Ubuntu)` `Git`
 
+**Also**
+`React` `TypeScript` `WordPress / WooCommerce`
